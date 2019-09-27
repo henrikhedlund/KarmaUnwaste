@@ -3,5 +3,5 @@ In the code you can find a list with products and their expiration state, while 
 
 Developed together with Henrik Hedlund (https://github.com/hhedlund)
 
-![alt text](https://imgur.com/HhVbF1l.jpeg)
+![alt text](https://i.imgur.com/Q5uG7pn.jpg)
 
